@@ -36,17 +36,17 @@ Instalution旨在成为Instagram的一个革命性的解决方案。
 
 ## Zusammenfassung auf Deutsch
 
-_Instalution will eine revolutionäre Lösung für Instagram sein._
+_Instalution, eine revolutionäre Lösung für Instagram._
 
-Auf der Suche nach Gleichgesinnten, um eine Entwicklungsgemeinschaft zu gründen:
+Wir suchen Gleichgesinnte, um eine starke Entwicklergemeinschaft aufzubauen:
 
-1) Künstler, die die Kontrolle über ihre Portfolios übernehmen möchten
-2) Entwickler, die daran interessiert sind, Code beizusteuern
-3) Nutzer mit Ideen oder Einblicken in das Projekt
+1) Kreative Künstler: Übernehmt die Kontrolle über eure Portfolios und gestaltet die Zukunft von Instalution mit.
+2) Engagierte Entwickler: Bringt eure Fähigkeiten ein und helft dabei, unser Projekt voranzutreiben.
+3) Visionäre Nutzer: Teilt eure Ideen und Einsichten, um Instalution noch besser zu machen.
 
-Sie sind eingeladen, sich einer der Gruppen anzuschließen:
+Lasst uns gemeinsam etwas Großes schaffen!
 
-Zusätzliche Dokumentation: https://github.com/instalution/frontend/blob/master/README-de.md
+Ausführlichere Dokumentation: https://github.com/instalution/frontend/blob/master/README-de.md
 
 ## Resumen en español
 
